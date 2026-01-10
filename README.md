@@ -1,6 +1,6 @@
-![Image1](images/raylib/hangmanpicture1.png)
-![Image2](images/hangmanpicture2.png)
-![Image3](images/hangmanpicture3.png)
+![Image1](images/hangmanpicture1.PNG)
+![Image2](images/hangmanpicture2.PNG)
+![Image3](images/hangmanpicture3.PNG)
 
 # 🎮 Hangman Game
 
