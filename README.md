@@ -1,3 +1,7 @@
+![Image1](images/raylib/hangmanpicture1.png)
+![Image2](images/hangmanpicture2.png)
+![Image3](images/hangmanpicture3.png)
+
 # 🎮 Hangman Game
 
 A simple **Hangman Game** written in **C** using **raylib**.  
