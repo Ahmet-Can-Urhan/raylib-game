@@ -1,4 +1,4 @@
-# 🎮 Raylib Game Prototype
+# 🎮 Hangman Game
 
 A simple **Hangman Game** written in **C** using **raylib**.  
 This project was built as a learning exercise in low-level game development.
