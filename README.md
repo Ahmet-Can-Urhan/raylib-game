@@ -1,6 +1,6 @@
 # 🎮 Raylib Game Prototype
 
-A simple **2D game prototype** written in **C** using **raylib**.  
+A simple **Hangman Game** written in **C** using **raylib**.  
 This project was built as a learning exercise in low-level game development.
 
 ---
@@ -11,6 +11,9 @@ This project was built as a learning exercise in low-level game development.
 - C compiler (GCC / Clang / MSVC)
 - **raylib** installed on your system
 
+
+- Official site raylib.com
+
 ---
 
 ## 🔧 Build & Run
@@ -18,4 +21,4 @@ This project was built as a learning exercise in low-level game development.
 ### Using Makefile (Recommended)
 ```bash
 make
-./game
+./hangman
